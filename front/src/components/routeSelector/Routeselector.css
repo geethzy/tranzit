@@ -1,0 +1,68 @@
+.rdc {
+    margin-top: 100px;
+    
+    height: auto;
+    width: auto;
+    background-color:#ffffff;
+    border-radius: 20px;
+}
+.rdc h1
+{
+    color:#395B64 ;
+    padding-left:260px ;
+    font-size:30px;
+}
+.rdc img{
+    margin-top: -60px;
+    padding-left: 300px;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown>.dropdown-toggle:active {
+    pointer-events: none;
+}
+
+.main-container{
+    height:auto;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.dropdown{
+    display:inline-block
+}
+
+::-webkit-datetime-edit { padding: 4px; }
+
+.date{
+    position: relative;
+    top:2px;
+}
+.getRoute{
+    margin-left: 180px;
+}
+select.selectpicker {
+    display: inline-block;
+    margin: 0 auto;
+    padding-left: 50px;
+    padding:10px 10px;
+    border-radius:5px;
+    outline:none;
+    border: none;
+    border: #395B64;
+}
+.btn-new {
+    background-color: rgb(68, 141, 214);
+}
+input{
+    margin-right:10px;
+    margin-left:40px;
+}
+
+.margin-left{
+    margin-left: 200px;
+}
